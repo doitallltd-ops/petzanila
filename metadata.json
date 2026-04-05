@@ -1,0 +1,7 @@
+{
+  "name": "PETZANIA - Quality Pet Care",
+  "description": "Your pet’s second home – Quality care and love for your furry friends in Mumbai.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
